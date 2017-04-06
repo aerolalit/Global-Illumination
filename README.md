@@ -4,5 +4,7 @@ This C++ implementation renders multiple implicitly defined spheres under multip
 For objects represented by triangular meshes, the code is still under consturuction.
 
 Check image.ppm for sample output of this code
-![alt text] (https://github.com/aerolalit/Global-Illumination/blob/master/image.png)
+
+![alt
+tag] (https://github.com/aerolalit/Global-Illumination/blob/master/image.png)
 
