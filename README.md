@@ -5,6 +5,5 @@ For objects represented by triangular meshes, the code is still under consturuct
 
 Check image.ppm for sample output of this code
 
-![alt
-tag] (https://github.com/aerolalit/Global-Illumination/blob/master/image.png)
+![alt text] (https://github.com/aerolalit/Global-Illumination/blob/master/image.png)
 
